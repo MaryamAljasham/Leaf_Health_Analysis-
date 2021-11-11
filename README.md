@@ -19,19 +19,19 @@ The data contains 8  Column and  13512 Rows
 
 - Features 
 
-INDCATOR CATEGORY :  indicators represent some of the leading causes of morbidity and mortality in the United States
+ - INDCATOR CATEGORY :  indicators represent some of the leading causes of morbidity and mortality in the United States
 
-INDCTOR : demographic indicators listed and for which the estimated value corresponds
+ - INDCTOR : demographic indicators listed and for which the estimated value corresponds
 
-YEAR :  2010-2015
+ - YEAR :  2010-2015
 
-GENDER : The type of gender
+ - GENDER : The type of gender
 
-RACE / ETHNICITY :  (White Non-Hispanic, Black Non-Hispanic, Hispanic, Asian/Pacific Islander, American Indian/Alaska Native or Other) to which the estimated value of demographic indicator corresponds or all of them
+ - RACE / ETHNICITY :  (White Non-Hispanic, Black Non-Hispanic, Hispanic, Asian/Pacific Islander, American Indian/Alaska Native or Other) to which the estimated value of demographic indicator corresponds or all of them
 
-VALUE :The estimated value of demographic indicator specific to a population from a location, or gender or both, of race/ethnicity or for all and in one of the years from the interval 2010-2015
+ - VALUE :The estimated value of demographic indicator specific to a population from a location, or gender or both, of race/ethnicity or for all and in one of the years from the interval 2010-2015
 
-PLACE : The city or county to which the estimated value of demographic indicator corresponds or US level 
+ - PLACE : The city or county to which the estimated value of demographic indicator corresponds or US level 
 #BCHC REQUESTED : The Big Cities Health Coalition requested methodology for the estimation of a specific demographic indicator
 
 
