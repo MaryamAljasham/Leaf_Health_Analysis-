@@ -3,6 +3,8 @@
 # ( EDA, Big city health )
 
  
+ 
+ 
  - OverView 
 
 (Leaf Health ) is a drug company in US that aims to increase their profit by doing Analysis to a health data from 26 cities of united sates’s largest and most urban cities. Public health data were captured in 9 inductor categories : HIV/AIDS , Cancer , nutrition / physical activity / obesity , food safety , infection diseases ,Maternal/child health , tobacco , injury/violence and health / substance abuse categorized per gender , race , year to a diagnosis rate per 100,000 people.the dataset covers  2010 - 2015 period.
