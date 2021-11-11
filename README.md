@@ -37,7 +37,7 @@ PLACE : The city or county to which the estimated value of demographic indicator
 
 - Tools 
 
-#Python libraries : numpy, Pandas , Seaborn , matplot.
+Python libraries : numpy, Pandas , Seaborn , matplot.
  
 - Questions 
  
