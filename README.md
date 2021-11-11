@@ -12,12 +12,12 @@
 Leaf Health   has a problem with their sales in the last year compering with their competitors  so we are trying to give them analysis to diagnosis which is the indicator that effect the most and where to improve their sales in it .
 
 
-- Data Description :
+- Data Description 
 
 We will be using ( big Data Health ) Dataset from kaggle.
 The data contains 8  Column and  13512 Rows
 
-- Features :
+- Features 
 
 #INDCATOR CATEGORY :  indicators represent some of the leading causes of morbidity and mortality in the United States
 #INDCTOR : demographic indicators listed and for which the estimated value corresponds
@@ -29,11 +29,11 @@ The data contains 8  Column and  13512 Rows
 #BCHC REQUESTED : The Big Cities Health Coalition requested methodology for the estimation of a specific demographic indicator
 
 
-- Tools :
+- Tools 
 
 #Python libraries : numpy, Pandas , Seaborn , matplot.
  
-- Questions :
+- Questions 
  
 #Q1 : Which Indicator category is the most?
 #Q2 : when is highest year had HIV ?
