@@ -4,15 +4,21 @@ EDA - BIG CITY HEALTH
 ( LEAF HEALTH )
  
  OverView 
-Leaf Health   its a drug company in US that aims to increase their profit by doing Analysis to a health data from 26 cities of united sates’s largest and most urban cities. Public health data were captured in 9 inductor categories : HIV/AIDS , Cancer , nutrition / physical activity / obesity , food safety , infection diseases ,Maternal/child health , tobacco , injury/violence and health / substance abuse categorized per gender , race , year to a diagnosis rate per 100,000 people.the dataset covers  2010 - 2015 period.
+
+(Leaf Health )its a drug company in US that aims to increase their profit by doing Analysis to a health data from 26 cities of united sates’s largest and most urban cities. Public health data were captured in 9 inductor categories : HIV/AIDS , Cancer , nutrition / physical activity / obesity , food safety , infection diseases ,Maternal/child health , tobacco , injury/violence and health / substance abuse categorized per gender , race , year to a diagnosis rate per 100,000 people.the dataset covers  2010 - 2015 period.
 
 Problem Statment 
+
 Leaf Health   has a problem with their sales in the last year compering with their competitors  so we are trying to give them analysis to diagnosis which is the indicator that effect the most and where to improve their sales in it .
-Data Description 
+
+
+Data Description :
+
 We will be using ( big Data Health ) Dataset from kaggle.
 The data contains 8  Column and  13512 Rows
 
 Features :
+
 INDCATOR CATEGORY :  indicators represent some of the leading causes of morbidity and mortality in the United States
 INDCTOR : demographic indicators listed and for which the estimated value corresponds
 YEAR :  2010-2015
@@ -24,6 +30,7 @@ BCHC REQUESTED : The Big Cities Health Coalition requested methodology for the e
 
 
 Tools :
+
 Python libraries : numpy, Pandas , Seaborn , matplot.
  
 Questions :
