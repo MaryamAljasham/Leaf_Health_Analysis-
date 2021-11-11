@@ -35,12 +35,12 @@ The data contains 8  Column and  13512 Rows
  
 - Questions 
  
-#Q1 : Which Indicator category is the most?
+Q1 : Which Indicator category is the most?
 
-#Q2 : when is highest year had HIV ?
+Q2 : when is highest year had HIV ?
 
-#Q3 : what is the percentage of total gender ?
+Q3 : what is the percentage of total gender ?
 
-#Q4 : Max year ,gender ,place and race, mean of the value per inductor category.
+Q4 : Max year ,gender ,place and race, mean of the value per inductor category.
 
-#Q5 : cancer diagnoses rate per 100,000 race: all sex :both year 2014
+Q5 : cancer diagnoses rate per 100,000 race: all sex :both year 2014
