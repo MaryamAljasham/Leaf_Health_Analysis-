@@ -3,7 +3,7 @@
 #  EDA, Big City Health 
 
 <p align="center" >
-<img src="image/IMG_1253.jpg" width ="400">
+<img src="image/leafimage.png" width ="400">
 </p>
 
                                                                                                                                                                                                                                                                                                                                  
