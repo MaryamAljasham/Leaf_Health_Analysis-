@@ -2,7 +2,9 @@
 
 #  EDA, Big City Health 
 
- ![](IMG_1253.jpg)
+<p align="center" >
+<img src="image/IMG_1253.jpg" width ="400">
+</p>
 
                                                                                                                                                                                                                                                                                                                                  
  - OverView 
