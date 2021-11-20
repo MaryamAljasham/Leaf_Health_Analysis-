@@ -48,12 +48,13 @@ Python libraries : numpy, Pandas , Seaborn , matplot.
  
 - Questions 
  
- Q1 : Which Indicator category is the most?
+ Q1 : what type of gender that infected the most by each Indicator Category and  the percentage of it?
 
- Q2 : when is highest year had HIV ?
+ Q2 : How many Indicator Category present on each year?
 
- Q3 : what is the percentage of total gender ?
+ Q3 : Which city is infected the most by Indicator category ?
 
- Q4 : Max year ,gender ,place and race, mean of the value per inductor category.
+ Q4 : Max year ,gender ,place , race and value  of the value per inductor category.
 
- Q5 : cancer diagnoses rate per 100,000 race: all sex :both year 2014
+ Q5 :  Based on each the value of Indicator Category how impressed on every year ?
+ 
